@@ -1,0 +1,20 @@
+
+# dependencies
+node_modules
+typechain
+typechain-types
+
+# testing
+coverage
+
+# Hardhat files
+cache
+artifacts
+
+# local env files
+.env
+
+# typescript
+*.tsbuildinfo
+
+# others
