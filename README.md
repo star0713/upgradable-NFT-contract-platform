@@ -1,1 +1,1 @@
-# Sparkblox core contracts
+Contract platform
