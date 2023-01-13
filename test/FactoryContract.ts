@@ -254,7 +254,6 @@ describe("SparkbloxFactory", () => {
         });
     });
 
-
     describe("test getLatestImplementation method", () => {
         let typeOfDropcollection: BytesLike
         let typeOfNFTcollection: BytesLike;
