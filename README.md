@@ -2,7 +2,7 @@ Contract platform
 # Sparkblox core contracts
 
 <div align="center">
-  <img alt="Demo" src="./test.png" />
+  <img alt="Demo" src="./images/test.png" />
 </div>
 
 <br/>
